@@ -1,0 +1,16 @@
+{
+    "1": {
+        "Name": "akku",
+        "DOB": "09-13-1999",
+        "Height": 188,
+        "City": "pta",
+        "State": "kerala"
+    },
+    "2": {
+        "Name": "amal",
+        "DOB": "13-09-2000",
+        "Height": 181,
+        "City": "Chennai",
+        "State": "TN"
+    }
+}

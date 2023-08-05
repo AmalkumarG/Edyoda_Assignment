@@ -1,0 +1,30 @@
+{
+    "1": {
+        "State": "Kerala",
+        "Capital": "Trivandrum"
+    },
+    "2": {
+        "State": "Tamil Nadu",
+        "Capital": "Chennai"
+    },
+    "3": {
+        "State": "Karnataka",
+        "Capital": "Bengaluru"
+    },
+    "4": {
+        "State": "Maharashtra",
+        "Capital": "Mumbai"
+    },
+    "5": {
+        "State": "Madhya Pradesh\t",
+        "Capital": "Bhopal"
+    },
+    "6": {
+        "State": "Manipur",
+        "Capital": "Imphal"
+    },
+    "7": {
+        "State": "Meghalaya",
+        "Capital": "Shillong"
+    }
+}
